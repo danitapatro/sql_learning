@@ -15,8 +15,6 @@ Duration: ~10–12 weeks · Database: MySQL
 | 4 | [Advanced SQL](#phase-4--advanced-sql) | ~3 weeks | ⏳ Not Started |
 | 5 | [Database Design & Optimization](#phase-5--database-design--optimization) | ~2 weeks | ⏳ Not Started |
  
-> Update status as you go: ⏳ Not Started · 🔄 In Progress · ✅ Done
- 
 ---
  
 ## 🗂️ Folder Structure
